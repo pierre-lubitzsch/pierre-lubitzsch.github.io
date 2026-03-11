@@ -442,3 +442,9 @@
     }
   }
 }
+
+.greedy-nav .visible-links .masthead__menu-item--lg a {
+  display: inline-block;
+  visibility: hidden;
+  pointer-events: none;
+}

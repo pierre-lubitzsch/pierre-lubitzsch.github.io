@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a id="about"></a>
+
 I am a Ph.D. student at the [DEEM Lab](https://deem.berlin) at [BIFOLD](https://bifold.berlin/) & [TU Berlin](https://www.tu.berlin/), supervised by [Prof. Dr.-Ing. Sebastian Schelter](https://deem.berlin/) (TU Berlin) and [Prof. Dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) (University of Amsterdam).
 
 My research focuses on **Machine Unlearning for Recommender Systems**, developing methods that allow recommendation models to efficiently forget specific training data, with applications to privacy (e.g., the right to be forgotten) and removal of malicious content.

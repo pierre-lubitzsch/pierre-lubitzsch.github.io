@@ -22,7 +22,11 @@
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
+    <!--
+      Prevent search engines from using these social-link labels (e.g. "GitHub") in snippets.
+      This keeps the About page result focused on your main text.
+    -->
+    <ul class="author__urls social-icons" data-nosnippet="true">
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>

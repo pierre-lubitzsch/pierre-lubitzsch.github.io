@@ -39,28 +39,28 @@ Prior to my PhD, I completed a Master's degree in Computer Science at Freie Univ
 
 ### Education
 
-* Ph.D. in Computer Science, Technische Universität Berlin / BIFOLD, 2025 – present
+* Ph.D. in Computer Science, Technische Universität Berlin / BIFOLD, 2025 - present
   * Supervisors: Prof. Dr.-Ing. Sebastian Schelter (TU Berlin) and Prof. Dr. Maarten de Rijke (UvA)
   * Topic: Machine Unlearning for Recommender Systems
-* M.Sc. in Computer Science, Freie Universität Berlin, 2021 – 2024
+* M.Sc. in Computer Science (grade 1.2), Freie Universität Berlin, 2021 - 2024
   * Thesis: *Neural Network Post-Filters for Video Coding* (in cooperation with Fraunhofer HHI)
-* B.Sc. in Computer Science (grade 1.4), Freie Universität Berlin, 2018 – 2021
-* Abitur (grade 1.7), Werner-von-Siemens-Gymnasium Berlin, 2012 – 2018
+* B.Sc. in Computer Science (grade 1.4), Freie Universität Berlin, 2018 - 2021
+* Abitur (grade 1.7), Werner-von-Siemens-Gymnasium Berlin, 2012 - 2018
   * Advanced courses: Computer Science, Mathematics
 
 ### Work Experience
 
-* Feb 2025 – present: PhD Student
-  * BIFOLD – Berlin Institute for the Foundations of Learning and Data / TU Berlin, Berlin, Germany
+* Feb 2025 - present: PhD Student
+  * BIFOLD -- Berlin Institute for the Foundations of Learning and Data / TU Berlin, Berlin, Germany
   * Research on Machine Unlearning for Recommender Systems
   * Supervisors: Sebastian Schelter and Maarten de Rijke
 
-* Dec 2022 – Dec 2024: Student Assistant
+* Dec 2022 - Dec 2024: Student Assistant
   * Fraunhofer Heinrich Hertz Institute (HHI), Berlin, Germany
   * Work on neural network coding for video compression
   * Wrote master's thesis: *Neural Network Post-Filters for Video Coding*
 
-* Aug 2020 – Oct 2020: Web Development Intern
+* Aug 2020 - Oct 2020: Web Development Intern
   * writeaguide, Berlin, Germany
   * Fullstack web development internship
 
